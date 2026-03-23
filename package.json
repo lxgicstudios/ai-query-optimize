@@ -39,7 +39,7 @@
   "homepage": "https://github.com/LXGIC-Studios/ai-query-optimize#readme",
   "repository": {
     "type": "git",
-    "url": "https://github.com/LXGIC-Studios/ai-query-optimize"
+    "url": "git+https://github.com/LXGIC-Studios/ai-query-optimize.git"
   },
   "bugs": {
     "url": "https://github.com/LXGIC-Studios/ai-query-optimize/issues"
