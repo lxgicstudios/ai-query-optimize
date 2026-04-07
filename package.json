@@ -1,5 +1,5 @@
 {
-  "name": "ai-query-optimize",
+  "name": "@lxgicstudios/ai-query-optimize",
   "version": "1.0.0",
   "description": "AI-powered SQL query optimizer - faster queries with GPT index recommendations",
   "main": "dist/index.js",
