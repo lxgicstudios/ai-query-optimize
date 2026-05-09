@@ -15,31 +15,36 @@
     "build": "tsc"
   },
   "keywords": [
+    "2025-standards",
     "ai",
+    "ai-2025",
+    "ai-powered",
     "anthropic",
-    "claude",
-    "llm",
-    "openai",
-    "gpt",
-    "sql",
-    "query",
-    "optimization",
-    "database",
-    "postgres",
-    "mysql",
-    "developer-tools",
-    "cli",
     "automation",
-    "typescript",
+    "claude",
+    "cli",
+    "database",
+    "developer-productivity",
+    "developer-tools",
+    "discoverability",
+    "generative-ai",
+    "gpt",
+    "llm-optimized",
+    "modern-seo",
     "nodejs",
-    "performance"
+    "performance",
+    "performance-optimization",
+    "query",
+    "seo",
+    "seo-2026",
+    "typescript"
   ],
   "author": "LXGIC Studios",
   "license": "MIT",
   "homepage": "https://github.com/LXGIC-Studios/ai-query-optimize#readme",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/LXGIC-Studios/ai-query-optimize.git"
+    "url": "https://github.com/LXGIC-Studios/ai-query-optimize"
   },
   "bugs": {
     "url": "https://github.com/LXGIC-Studios/ai-query-optimize/issues"
