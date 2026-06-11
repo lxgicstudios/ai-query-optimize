@@ -16,7 +16,7 @@
 
 # AI Query Optimize
 
-solve specific development challenges with AI-powered insights.
+AI-powered SQL query optimizer — index recommendations, query rewrites, and EXPLAIN analysis. Works with Claude, Cursor, GPT, Copilot.
 
 [![npm downloads](https://img.shields.io/npm/d/ai-query-optimize.svg?style=for-the-badge&logo=npm&label=downloads)](https://npmjs.com/package/ai-query-optimize)
 [![GitHub stars](https://img.shields.io/github/stars/LXGIC-Studios/ai-query-optimize?style=for-the-badge&logo=github&label=stars)](https://github.com/LXGIC-Studios/ai-query-optimize)
@@ -24,9 +24,17 @@ solve specific development challenges with AI-powered insights.
 
 </div>
 
-> AI-powered SQL query optimizer - faster queries with GPT index recommendations.
+> AI-powered SQL query optimizer — index recommendations and query rewrites with GPT.
 
-## 🚀 Features
+## 🤖 Works With
+
+| AI Assistant | Support |
+|-------------|---------|
+| 🤖 **Claude / Claude Code** | ✅ Full |
+| 🔵 **Cursor** | ✅ Full |
+| 💚 **GPT / ChatGPT** | ✅ Full |
+| ⚡ **GitHub Copilot** | ✅ Full |
+| 🧩 **MCP Servers** | ✅ Compatible |## 🚀 Features
 
 - Feature 1
 - Feature 2
