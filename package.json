@@ -8,7 +8,7 @@
     "ai-query-optimize": "dist/cli.js"
   },
   "bugs": {
-    "url": "https://github.com/lxgicstudios/npm-tools/issues"
+    "url": "https://github.com/LXGIC-Studios/npm-tools/issues"
   },
   "dependencies": {
     "commander": "^12.1.0",
@@ -32,13 +32,16 @@
     "type": "github",
     "url": "https://github.com/sponsors/LXGIC-Studios"
   },
-  "homepage": "https://github.com/lxgicstudios/npm-tools/tree/main/ai-query-optimize",
+  "homepage": "https://github.com/LXGIC-Studios/npm-tools/tree/main/ai-query-optimize",
   "keywords": [
     "sql-optimization",
     "query-performance",
     "indexing",
     "database",
-    "postgresql"
+    "postgresql",
+    "page-speed",
+    "seo-audit",
+    "technical-seo"
   ],
   "license": "MIT",
   "main": "dist/index.js",
@@ -49,7 +52,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/lxgicstudios/npm-tools.git",
+    "url": "git+https://github.com/LXGIC-Studios/npm-tools.git",
     "directory": "ai-query-optimize"
   },
   "scripts": {
